@@ -1,1 +1,1 @@
-echo "# SPARTANS - <AMIT KUMAR>"
+# SPARTANS - <AMIT KUMAR>
