@@ -1,1 +1,1 @@
-echo "# SPARTANS - <AMIT KUMAR>" > profile.md
+echo "# SPARTANS - <AMIT KUMAR>"
